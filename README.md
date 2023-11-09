@@ -1,1 +1,4 @@
-# liver_cancer_detection_from_histopathology-
+# liver_cancer_detection_from_histopathology
+
+Liver cancer is a prevalent and life-threatening disease that necessitates accurate and early detection to ensure effective treatment. This involves the branch of pathology known as histopathology, where tissue samples are microscopically examined to study the changes and abnormalities associated with diseases. These changes are visually represented in histopathology images, which are captured under a microscope.
+The goal of this project is to develop and implement a deep learning-based system for the accurate detection of liver cancer from histopathology images. By leveraging advanced Convolutional Neural Network (CNN) architecture and image analysis techniques, the project aims to improve the efficiency and precision of liver cancer diagnosis, thereby enhancing patient outcomes and contributing to the advancement of medical image analysis in the context of liver cancer detection. Ultimately, the project aims to improve patient outcomes and contribute to the fight against liver cancer.
